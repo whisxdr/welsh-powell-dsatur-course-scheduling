@@ -1,0 +1,103 @@
+{
+  "instances_total": 690,
+  "instances_experiment_a": 600,
+  "instances_experiment_b": 90,
+  "algorithm_instance_comparisons": 1380,
+  "overall_wp_mean_colors": 11.8928,
+  "overall_ds_mean_colors": 11.0986,
+  "overall_mean_reduction_pct": 7.1693,
+  "overall_dsatur_wins": 390,
+  "overall_ties": 285,
+  "overall_wp_wins": 15,
+  "overall_runtime_ratio": 3.0912,
+  "overall_colors_p": 4.15100938141317e-66,
+  "overall_colors_effect": -0.9463966429483671,
+  "overall_runtime_p": 1.2272031082066633e-114,
+  "overall_runtime_effect": 1.0,
+  "overall_color_ci": [
+    -0.8623,
+    -0.7261
+  ],
+  "reduction_by_p": {
+    "0.1": 11.1429,
+    "0.3": 8.192,
+    "0.5": 8.0383,
+    "0.7": 5.4885
+  },
+  "reduction_by_n": {
+    "20": 5.2315,
+    "40": 7.8994,
+    "60": 10.3422,
+    "80": 8.9953,
+    "100": 8.6088
+  },
+  "reduction_by_scenario": {
+    "large_program": 0.1091,
+    "medium_program": 0.4762,
+    "small_program": 0.0
+  },
+  "p_by_scenario": {
+    "large_program": 0.6547208460185769,
+    "medium_program": 0.15729920705028502,
+    "small_program": 1.0
+  },
+  "holm_p_by_scenario": {
+    "large_program": 1.0,
+    "medium_program": 0.4718976211508551,
+    "small_program": 1.0
+  },
+  "holm_p_by_probability": {
+    "0.1": 8.822295130784828e-18,
+    "0.3": 5.979243623103107e-18,
+    "0.5": 2.159264522391653e-18,
+    "0.7": 8.822295130784828e-18
+  },
+  "runtime_ratio_by_p": {
+    "0.1": 2.9195,
+    "0.3": 3.1321,
+    "0.5": 3.0829,
+    "0.7": 3.1075
+  },
+  "max_wp_colors": 30,
+  "max_ds_colors": 29,
+  "total_conflicts": 0,
+  "experiment_b_ties": 83,
+  "experiment_b_instances": 90,
+  "optimality": {
+    "instances_attempted": 450,
+    "instances_proven": 447,
+    "instances_unproven": 3,
+    "instances_without_proof": 243,
+    "share_proven": 0.9933,
+    "share_of_benchmark": 0.6478,
+    "mean_gap_wp_pct": 15.7491,
+    "mean_gap_ds_pct": 7.0633,
+    "max_gap_wp_pct": 66.6667,
+    "max_gap_ds_pct": 50.0,
+    "wp_optimal_share": 0.387,
+    "ds_optimal_share": 0.613
+  },
+  "real_case": {
+    "n_courses": 156,
+    "n_students": 975,
+    "n_edges": 1029,
+    "density": 0.085112,
+    "avg_clustering": 0.649145,
+    "components": 2,
+    "max_degree": 60,
+    "k_wp": 13,
+    "k_ds": 13,
+    "clique_lower_bound": 13,
+    "chromatic_number_proven": true,
+    "runtime_ratio": 3.7488,
+    "wp_time_median_ms": 0.4224,
+    "ds_time_median_ms": 1.5835
+  },
+  "audit": {
+    "clustering_experiment_a": 0.397459805,
+    "clustering_experiment_b": 0.7755919,
+    "clustering_real": 0.649145,
+    "components_experiment_a": 1.2166666666666666,
+    "components_experiment_b": 1.7777777777777777
+  }
+}

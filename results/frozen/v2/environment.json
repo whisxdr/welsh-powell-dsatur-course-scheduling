@@ -1,0 +1,16 @@
+{
+  "platform": "Windows-11-10.0.26300-SP0",
+  "system": "Windows",
+  "release": "11",
+  "machine": "ARM64",
+  "processor_identifier": "ARMv8 (64-bit) Family 8 Model 1 Revision 201, Qualcomm Technologies Inc",
+  "cpu_count_logical": 8,
+  "python_version": "3.13.15",
+  "python_implementation": "CPython",
+  "numpy_version": "2.5.3",
+  "pandas_version": "3.1.0",
+  "networkx_version": "3.6.1",
+  "scipy_version": "1.18.1",
+  "matplotlib_version": "3.11.2",
+  "timer": "time.perf_counter (monotonic, nanosecond resolution)"
+}

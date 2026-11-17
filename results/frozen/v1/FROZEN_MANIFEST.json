@@ -1,0 +1,55 @@
+{
+  "version": "v1",
+  "frozen_at": "2026-11-16T13:00:42",
+  "note": "Immutable snapshot of the artefacts cited by paper/main.tex. verify_claims.py reads only this directory.",
+  "files": {
+    "raw_results.csv": {
+      "sha256": "67e559a6a37e282a6e38e829ed5d1db8e44411122f4f0f059e0974105a7c8e3c",
+      "bytes": 176587
+    },
+    "statistics.json": {
+      "sha256": "b0e3e6b4807a5b674b7b4ace0be27e5f0dec6bebc4c0f3848f836674ed1f92a9",
+      "bytes": 14596
+    },
+    "key_numbers.json": {
+      "sha256": "2fa3c6a5f00d9b1228586b8c41d03b8fbb52957bd9cfb3a7937be8278e3189d2",
+      "bytes": 2605
+    },
+    "environment.json": {
+      "sha256": "ff3e5e926617a78d0a778522254aa42793ead6bcaf9548e7017338fc47ed1bd7",
+      "bytes": 538
+    },
+    "run_manifest.json": {
+      "sha256": "046cdeb52e4aac2e617ca726abb349206ee0708b6431c3737de379c2d687d25b",
+      "bytes": 2482
+    },
+    "optimality.csv": {
+      "sha256": "0e956e4bebaea4936b3409a9fc47bdec46f02d37922530f60a6169c8e3827c39",
+      "bytes": 32875
+    },
+    "optimality.json": {
+      "sha256": "0791f90341d276ad9ec6700d5e2b4c687379dd7f0214f035810a7fb00255a116",
+      "bytes": 3924
+    },
+    "optimality_summary.csv": {
+      "sha256": "13ccc9cbe469664e98022696ba57aebde688a0abb400681b1d196845ddb9be93",
+      "bytes": 960
+    },
+    "real_case_study.json": {
+      "sha256": "aec17074c16660ebef6420305e119abeace6aaf5432373753ae5bb4d7de74457",
+      "bytes": 1131
+    },
+    "graph_audit.csv": {
+      "sha256": "e5976e5260e815d332a4fc95bd9ee6b76cbada12df9a0fc9beb8ca0598164c5d",
+      "bytes": 67430
+    },
+    "graph_audit_summary.csv": {
+      "sha256": "249ae23890669677f2414e7304f8eecaa92d92e04b3e1b53885852c362faafc8",
+      "bytes": 2099
+    },
+    "real_dataset.json": {
+      "sha256": "ee01c0318bd1ad66a3ed841f554a136f99e0994268d26632a0909e7b2bce5f74",
+      "bytes": 346
+    }
+  }
+}

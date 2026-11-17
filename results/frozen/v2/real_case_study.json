@@ -1,0 +1,46 @@
+{
+  "dataset": {
+    "name": "etp_registration",
+    "n_students": 975,
+    "n_courses": 156,
+    "registrations": 3129,
+    "n_edges": 1029,
+    "density": 0.085112,
+    "max_degree": 60,
+    "isolated_courses": 1,
+    "sha256": "b1833dc0f3112c254658033dd6cc3f6b858c4ea78a5fd1b163efd7c5fecba829",
+    "source_doi": "10.5281/zenodo.17129990",
+    "license": "CC BY 4.0"
+  },
+  "structure": {
+    "n": 156,
+    "m": 1029,
+    "density": 0.085112,
+    "mean_degree": 13.1923,
+    "std_degree": 11.0111,
+    "max_degree": 60,
+    "min_degree": 0,
+    "isolated_vertices": 1,
+    "components": 2,
+    "largest_component": 155,
+    "avg_clustering": 0.649145,
+    "transitivity": 0.414489,
+    "assortativity": -0.135214,
+    "clique_lower_bound": 13
+  },
+  "k_wp": 13,
+  "k_ds": 13,
+  "wp_time_median_ms": 0.4224,
+  "ds_time_median_ms": 1.5835,
+  "runtime_ratio_ds_over_wp": 3.7488,
+  "conflicts_wp": 0,
+  "conflicts_ds": 0,
+  "clique_lower_bound": 13,
+  "chromatic_interval": [
+    13,
+    13
+  ],
+  "chromatic_number_proven": true,
+  "repeats": 7,
+  "measured_at": "2026-11-16T12:38:05"
+}

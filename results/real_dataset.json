@@ -1,0 +1,13 @@
+{
+  "name": "etp_registration",
+  "n_students": 975,
+  "n_courses": 156,
+  "registrations": 3129,
+  "n_edges": 1029,
+  "density": 0.085112,
+  "max_degree": 60,
+  "isolated_courses": 1,
+  "sha256": "b1833dc0f3112c254658033dd6cc3f6b858c4ea78a5fd1b163efd7c5fecba829",
+  "source_doi": "10.5281/zenodo.17129990",
+  "license": "CC BY 4.0"
+}
