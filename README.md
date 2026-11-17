@@ -67,7 +67,9 @@ terstruktur (83 dari 90 instans seri).
 │   └── frozen/v1/            # snapshot kanonis + FROZEN_MANIFEST.json
 ├── requirements.txt
 ├── pyproject.toml
-└── run_all.py
+├── run_all.py
+└── presentation/
+    └── naskah_presentasi.md   # naskah presentasi 12 slide + Q&A
 ```
 
 ## Kebutuhan
